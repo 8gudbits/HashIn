@@ -9,7 +9,7 @@ Hashin is a secure, client-side file hashing tool that generates cryptographic h
 
 ## Usage
 
-Visit [https://8gudbits.github.io/apps.noman/hashin/] to access the web version directly in any modern browser. No installation required.
+Visit [apps.noman/hashin](https://8gudbits.github.io/apps.noman/hashin/) to access the web version directly in any browser. No installation required.
 
 ## Android App
 
